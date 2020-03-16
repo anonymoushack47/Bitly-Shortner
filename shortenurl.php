@@ -15,22 +15,22 @@ $red    = "\e[91m";
 $yellow = "\e[93m";
 $blue   = "\e[36m";
 echo "\n$yellow
- _  ______   ____
-| |/ /  _ \ / ___| ___ _ __
-| ' /| | | | |  _ / _ \ '_ \
-| . \| |_| | |_| |  __/ | | |
-|_|\_\____/ \____|\___|_| |_|\n".$red.
+ _     _ _                _
+| |__ (_) |_   _   _ _ __| |
+| '_ \| | __| | | | | '__| |
+| |_) | | |_  | |_| | |  | |
+|_.__/|_|\__|  \__,_|_|  |_|\n".$red.
 "Url Shortener";
 echo $blue."
-Author  : KapoorDev
-Contributer : SpeedX
-Github  : http://github.com/KapoorDev
+Author  : Anonymous Hack47
+Contributer : Kuljit Sah
+Github  : http://github.com/anonymoushack47
 Version : 0.1 ( Final )\n";
 echo $red."=========================== KapoorDev ))=====(@)>".$green."\n";
 if(isset($argv[1])) {
 	$url=$argv[1];
 } else {
-	echo "Usage : php KDShortner.php www.example.com\n";
+	echo "Usage : shortenurl.php www.example.com\n";
 	die();
 }
 
