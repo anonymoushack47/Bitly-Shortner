@@ -26,7 +26,7 @@ Author  : Anonymous Hack47
 Contributer : Kuljit Sah
 Github  : http://github.com/anonymoushack47
 Version : 0.1 ( Final )\n";
-echo $red."=========================== KapoorDev ))=====(@)>".$green."\n";
+echo $red."=========================== Kuljit Sah ))=====(@)>".$green."\n";
 if(isset($argv[1])) {
 	$url=$argv[1];
 } else {
@@ -76,4 +76,4 @@ if(strlen($shurl)<5) {
 		echo "Link   : ".$url."\n";
 		echo "Result : http://bit.do/".$shurl."\n";
 		}
-echo $red."=========================== KapoorDev ))=====(@)>".$green."\n";
+echo $red."=========================== Kuljit Sah ))=====(@)>".$green."\n";
