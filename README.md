@@ -1,3 +1,6 @@
 # Bitly-Shortner
 # Steps for usage 
-''' Watch video 🎥 till end 🔚 '''
+```
+Watch video 🎥 till end 🔚
+```
+video🎥 link 🔗 :=>  
