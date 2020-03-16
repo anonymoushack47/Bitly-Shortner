@@ -30,7 +30,7 @@ echo $red."=========================== KapoorDev ))=====(@)>".$green."\n";
 if(isset($argv[1])) {
 	$url=$argv[1];
 } else {
-	echo "Usage : shortenurl.php www.example.com\n";
+	echo "Usage : php shortenurl.php www.example.com\n";
 	die();
 }
 
